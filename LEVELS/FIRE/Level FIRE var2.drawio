@@ -1,9 +1,684 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T19:06:48.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" version="21.7.5" etag="HiBPgE3JWMc11lG44mfO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T19:07:10.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="tf-tOFJsx4ZD0_zJD_Uk" version="21.7.5" type="github">
   <diagram name="Page-1" id="659Leo1_XbCo1s_-ZQHK">
-    <mxGraphModel>
+    <mxGraphModel dx="996" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8wyKjD1DhAM10ofuEAj--1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description:&amp;nbsp;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--3" value="Question #:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="140" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--4" value="Opt #1:" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--3">
+          <mxGeometry y="70" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--5" value="Opt #2:" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--3">
+          <mxGeometry y="96" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--6" value="Opt #3:" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--3">
+          <mxGeometry y="122" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--7" value="Opt #4:" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--3">
+          <mxGeometry y="148" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--8" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="350" as="sourcePoint" />
+            <mxPoint x="110" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Terminate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--10" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--11" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="75" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--12" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--13" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--14" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--16" target="8wyKjD1DhAM10ofuEAj--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--16" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--18" target="8wyKjD1DhAM10ofuEAj--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--18" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: A fire alarm has been initiated in your building&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="110" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--18">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--20" value="Question #1: What will be your first response?&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="445" y="230" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--21" value="Opt #1: Call 911" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--20">
+          <mxGeometry y="70" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--22" value="Opt #2: Search for fire location" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--20">
+          <mxGeometry y="96" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--23" value="Opt #3: Evacuate" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--20">
+          <mxGeometry y="140" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--24" value="Opt #4: Check CACF panel" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--20">
+          <mxGeometry y="166" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--26" target="8wyKjD1DhAM10ofuEAj--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--26" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #2&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: The CACF is blinking multiple lights and has some information on the screen.&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="476" width="180" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--27" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--26">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--24" target="8wyKjD1DhAM10ofuEAj--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--29" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="314" as="sourcePoint" />
+            <mxPoint x="585" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--30" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="344" as="sourcePoint" />
+            <mxPoint x="585" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--31" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="384" as="sourcePoint" />
+            <mxPoint x="585" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--32" value="Question #2: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--33" value="Opt #1: Call 911, inform situation and relay CACF panel status" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--32">
+          <mxGeometry y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--34" value="Opt #2: Reset fire panel" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--32">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--35" value="Opt #3: Give announcement to evacuate" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--32">
+          <mxGeometry y="156" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--36" value="Opt #4: Acknowledge fire alarm" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--32">
+          <mxGeometry y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--37" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="710" as="sourcePoint" />
+            <mxPoint x="240" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--38" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="760" as="sourcePoint" />
+            <mxPoint x="240" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--39" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="800" as="sourcePoint" />
+            <mxPoint x="240" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--40" value="&lt;b&gt;Scene Update&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--42" target="8wyKjD1DhAM10ofuEAj--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--42" value="&lt;b&gt;Scene Update&lt;/b&gt;&lt;br&gt;Alarm Acknowledged" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="880" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--36" target="8wyKjD1DhAM10ofuEAj--42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--44" value="Question #3: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1000" width="140" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--45" value="Opt #1: Reset fire panel" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--44">
+          <mxGeometry y="70" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--46" value="Opt #2: Recall Elevators" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--44">
+          <mxGeometry y="96" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--47" value="Opt #3: Make 1st Announcement" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--44">
+          <mxGeometry y="122" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--48" value="Opt #4: Call 911, inform situation and answer questions related to CACF panel status" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--44">
+          <mxGeometry y="160" width="140" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--49" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="1090" as="sourcePoint" />
+            <mxPoint x="585" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--50" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="1110" as="sourcePoint" />
+            <mxPoint x="585" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--51" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="1140" as="sourcePoint" />
+            <mxPoint x="585" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--53" target="8wyKjD1DhAM10ofuEAj--56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--53" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #3&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Fire Fighters are informed and are on their way.&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1290" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--54" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--53">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--48" target="8wyKjD1DhAM10ofuEAj--53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--56" value="Question #4: What are your next steps?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1420" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--57" value="Opt #1: Call property manager" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--56">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--58" value="Opt #2: Keep firebox content ready for firefighters" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--56">
+          <mxGeometry y="110" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--59" value="Opt #3: Reset elevators" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--56">
+          <mxGeometry y="160" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--60" value="Opt #4: Make 1st Announcement" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--56">
+          <mxGeometry y="186" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--61" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="1510" as="sourcePoint" />
+            <mxPoint x="240" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--62" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="1560" as="sourcePoint" />
+            <mxPoint x="240" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--63" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="1590" as="sourcePoint" />
+            <mxPoint x="240" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--65" target="8wyKjD1DhAM10ofuEAj--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--65" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #4&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: You are in the lobby, waiting for firefighters.&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1690" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--66" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--65">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--60" target="8wyKjD1DhAM10ofuEAj--65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--68" value="Question #5: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1840" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--69" value="Opt #1: Receive Resident phone calls" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--68">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--70" value="Opt #2: Reset Elevators" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--68">
+          <mxGeometry y="110" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--71" value="Opt #3: Ensure elevator is recalled / Recall elevator&amp;nbsp;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--68">
+          <mxGeometry y="136" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--72" value="Opt #4: Keep Fire safety box content ready for firefighters" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--68">
+          <mxGeometry y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--74" target="8wyKjD1DhAM10ofuEAj--80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--74" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #5&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Is there anything else you need to do?&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2100" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--75" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--74">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--77" target="8wyKjD1DhAM10ofuEAj--74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--77" value="OR" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2010" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--71" target="8wyKjD1DhAM10ofuEAj--77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--72" target="8wyKjD1DhAM10ofuEAj--77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--80" value="Question #6: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2260" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--81" value="Opt #1: Receive Resident phone calls" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--80">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--82" value="Opt #2: Reset Elevators" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--80">
+          <mxGeometry y="110" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--83" value="Opt #3: Ensure elevator is recalled / Recall elevator&amp;nbsp;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--80">
+          <mxGeometry y="136" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--84" value="Opt #4: Keep Fire safety box content ready for firefighters" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--80">
+          <mxGeometry y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--85" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="1930" as="sourcePoint" />
+            <mxPoint x="600" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--86" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="1959.5" as="sourcePoint" />
+            <mxPoint x="600" y="1959.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--87" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="2350" as="sourcePoint" />
+            <mxPoint x="180" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--89" target="8wyKjD1DhAM10ofuEAj--93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--89" value="OR" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2430" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--83" target="8wyKjD1DhAM10ofuEAj--89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--84" target="8wyKjD1DhAM10ofuEAj--89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--93" target="8wyKjD1DhAM10ofuEAj--95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--93" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #6&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Fire Department are on site, and you have briefed them on the situation.&amp;nbsp;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2500" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--94" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--93">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--95" value="Question #7: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2650" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--96" value="Opt #1:Inform fire fighters where you think the fire is most likely present" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--95">
+          <mxGeometry y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--97" value="Opt #2: Leave situation in firefighters hands and evacuate" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--95">
+          <mxGeometry y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--98" value="Opt #3: Continue front desk duties" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--95">
+          <mxGeometry y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--99" value="Opt #4: Direct them to CACF panel, answer any questions asked" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--95">
+          <mxGeometry y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--100" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="680" y="2740" as="sourcePoint" />
+            <mxPoint x="620" y="2740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--101" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="680" y="2790" as="sourcePoint" />
+            <mxPoint x="620" y="2790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--102" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="680" y="2840" as="sourcePoint" />
+            <mxPoint x="620" y="2840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--104" target="8wyKjD1DhAM10ofuEAj--106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--104" value="&lt;b&gt;Scene Update&lt;/b&gt;&lt;br&gt;Captain checked CACF panel and is prepping up." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2950" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--99" target="8wyKjD1DhAM10ofuEAj--104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--106" value="Question #8: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3110" width="140" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--107" value="Opt #1:Inform fire fighters where you think the fire is most likely present" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--106">
+          <mxGeometry y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--108" value="Opt #2: Leave situation in firefighters hands and evacuate" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--106">
+          <mxGeometry y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--109" value="Opt #3: Receive Resident phone calls" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--106">
+          <mxGeometry y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--110" value="Opt #4: Give 2nd Announcement " style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--106">
+          <mxGeometry y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--111" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="2379.5" as="sourcePoint" />
+            <mxPoint x="180" y="2379.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--112" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="3210" as="sourcePoint" />
+            <mxPoint x="280" y="3210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--113" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="3280" as="sourcePoint" />
+            <mxPoint x="280" y="3280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--114" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="3330" as="sourcePoint" />
+            <mxPoint x="280" y="3330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--116" target="8wyKjD1DhAM10ofuEAj--119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--116" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #7&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Fire Fighters have deemed ALL CLEAR. &lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3420" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--117" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--116">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--110" target="8wyKjD1DhAM10ofuEAj--116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="3370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--119" value="Question #9: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3550" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--120" value="Opt #1: Call Property manager and inform status." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--119">
+          <mxGeometry y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--121" value="Opt #2: Reset Fire panel." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--119">
+          <mxGeometry y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--122" value="Opt #3: Receive resident phone calls" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--119">
+          <mxGeometry y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--123" value="Opt #4: Give 3rd Announcement" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--119">
+          <mxGeometry y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--124" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="3660" as="sourcePoint" />
+            <mxPoint x="650" y="3660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--125" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="3700" as="sourcePoint" />
+            <mxPoint x="650" y="3700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--126" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="3740" as="sourcePoint" />
+            <mxPoint x="650" y="3740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--128" target="8wyKjD1DhAM10ofuEAj--130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--128" value="&lt;b&gt;Scene Update&lt;/b&gt;&lt;br&gt;3rd Announcement is given, fire fighters are getting ready to leave." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--123" target="8wyKjD1DhAM10ofuEAj--128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--130" value="Question #10: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3990" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--131" value="Opt #1: Call Property manager and inform status." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--130">
+          <mxGeometry y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--132" value="Opt #2: Reset elevators and maglocks." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--130">
+          <mxGeometry y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--133" value="Opt #3: Continue front desk duties" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--130">
+          <mxGeometry y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--134" value="Opt #4: Reset panel, or let Fire Captain reset the panel.&amp;nbsp;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--130">
+          <mxGeometry y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--135" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="4090" as="sourcePoint" />
+            <mxPoint x="290" y="4090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--136" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="4140" as="sourcePoint" />
+            <mxPoint x="290" y="4140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--137" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="4180" as="sourcePoint" />
+            <mxPoint x="290" y="4180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="4430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--139" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #8&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Fire Fighters have left site.&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="4300" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--140" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--139">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--134" target="8wyKjD1DhAM10ofuEAj--139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--142" value="Question #11: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="510" y="4430" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--143" value="Opt #1: Call Property manager and inform status." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--142">
+          <mxGeometry y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--144" value="Opt #2: Make an Incident report." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--142">
+          <mxGeometry y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--145" value="Opt #3: Continue front desk duties" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--142">
+          <mxGeometry y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--146" value="Opt #4: Reset elevators and maglocks." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--142">
+          <mxGeometry y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--147" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="4530" as="sourcePoint" />
+            <mxPoint x="650" y="4530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--148" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="4580" as="sourcePoint" />
+            <mxPoint x="650" y="4580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--149" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="4620" as="sourcePoint" />
+            <mxPoint x="650" y="4620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--151" target="8wyKjD1DhAM10ofuEAj--154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--151" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #9&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Everything is reset and back to normal.&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="4740" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--152" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--151">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--146" target="8wyKjD1DhAM10ofuEAj--151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--154" value="Question #12: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="335" y="4870" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--155" value="Opt #1: Receive Resident phone calls" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--154">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--156" value="Opt #2: Make an Incident report." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--154">
+          <mxGeometry y="110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--157" value="Opt #3: Continue front desk duties" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--154">
+          <mxGeometry y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--158" value="Opt #4: Call Property manager and inform status" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--154">
+          <mxGeometry y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--159" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="295" y="4960" as="sourcePoint" />
+            <mxPoint x="335" y="4960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--160" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="295" y="5000" as="sourcePoint" />
+            <mxPoint x="335" y="5000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--161" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="295" y="5040" as="sourcePoint" />
+            <mxPoint x="335" y="5040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--163" target="8wyKjD1DhAM10ofuEAj--165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--163" value="&lt;b&gt;Scene Update&lt;/b&gt;&lt;br&gt;Property management updated about building status." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="5130" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--158" target="8wyKjD1DhAM10ofuEAj--163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--165" value="Question #13: What is your next step?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="5250" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--166" value="Opt #1: Receive Resident phone calls" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--165">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--167" value="Opt #2: Do a perimeter patrol" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--165">
+          <mxGeometry y="110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--168" value="Opt #3: Continue front desk duties" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--165">
+          <mxGeometry y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--169" value="Opt #4: Make an Incident report" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--165">
+          <mxGeometry y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--170" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="5340" as="sourcePoint" />
+            <mxPoint x="690" y="5340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--171" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="5380" as="sourcePoint" />
+            <mxPoint x="690" y="5380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--172" value="" style="endArrow=none;startArrow=sysMLx;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="5420" as="sourcePoint" />
+            <mxPoint x="690" y="5420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="5700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--174" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Scene #10&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description: Module complete!&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335" y="5570" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--175" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8wyKjD1DhAM10ofuEAj--174">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wyKjD1DhAM10ofuEAj--169" target="8wyKjD1DhAM10ofuEAj--174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wyKjD1DhAM10ofuEAj--177" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="410" y="5700" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
