@@ -1,5 +1,5 @@
 # Project ModTrain
-*Training Simulation Game for Security & Concierge Industry*
+*Training Simulation for Security & Concierge Industry*
 
 ---
 
