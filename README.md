@@ -18,11 +18,11 @@ Welcome to the Training Simulation Game project, a cutting-edge solution designe
 
 ### Stage 1: Pre-Production
 
-- [ ] Mapping out procedures and protocols.
-- [ ] Building module levels for procedures.
-- [ ] Mapping out possible 'Day Simulation' activities in residential environments.
-- [ ] Creating 5 level variation modules for 'Day Simulation.'
-- [ ] Creating failure cases for all modules.
+- [1] Mapping out procedures and protocols.
+- [1] Building module levels for procedures.
+- [1] Mapping out possible 'Day Simulation' activities in residential environments.
+- [1] Creating 5-level variation modules for 'Day Simulation.'
+- [1] Creating failure cases for all modules.
 
 ### Stage 2: Production
 
@@ -62,8 +62,6 @@ Welcome to the Training Simulation Game project, a cutting-edge solution designe
 
 Stay tuned for updates on the project's development and the upcoming launch phase. Your feedback and collaboration are highly valued as we work towards revolutionizing training in the Security & Concierge industry.
 
-For inquiries and collaboration opportunities, please contact [Project Owner Name] at [contact@email.com].
+For inquiries and collaboration opportunities, please contact Syed Nasir at snasirh09@gmail.com.
 
 ---
-
-*Note: This README.md is a sample template. Please replace the placeholders with your project-specific details.*
