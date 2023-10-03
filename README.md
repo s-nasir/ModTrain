@@ -63,6 +63,8 @@ Welcome to the Training Simulation Game project, a cutting-edge solution designe
 ### Stage 7: Post Launch (TBD)
 - Specifics of this stage are yet to be determined.
 
+---
+
 ## Next Steps
 
 Stay tuned for updates on the project's development and the upcoming launch phase. Your feedback and collaboration are highly valued as we work towards revolutionizing training in the Security & Concierge industry.
