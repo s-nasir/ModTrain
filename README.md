@@ -14,14 +14,6 @@ Welcome to the Training Simulation Game project, a cutting-edge solution designe
 
 - **Addressing Industry Challenges**: The project addresses common problems in current training methods, such as memory-based testing and the exclusion of certain demographics, by providing a more comprehensive and inclusive training experience.
 
-## Project Owner's Achievements
-
-- **Founded and Orchestrated Game Development**: The project is the brainchild of our visionary project owner, who orchestrated the entire game development process, applying software architecture principles to create a robust and scalable solution.
-
-- **Compelling Proof-of-Concept**: A compelling Proof-of-Concept document was crafted, demonstrating the project's potential to clients and investors, showcasing the owner's ability to communicate project vision effectively.
-
-- **Client Relationship Building**: Our project owner established and nurtured relationships with esteemed clients, including Elite Residential Concierge Services and iGuard360. Robust software engineering and requirement gathering techniques were employed to understand and fulfill client needs.
-
 ## Development Stages
 
 ### Stage 1: Pre-Production
