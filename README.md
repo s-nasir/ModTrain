@@ -1,4 +1,7 @@
-# Training Simulation Game for Security & Concierge Industry
+# Project ModTrain
+*Training Simulation Game for Security & Concierge Industry*
+
+---
 
 ## Overview
 
@@ -13,6 +16,8 @@ Welcome to the Training Simulation Game project, a cutting-edge solution designe
 - **Decision-Based Learning**: Protocols within the game are presented as step-by-step processes, prompting users to make choices. Wrong decisions result in module failure with explanatory feedback, while correct choices advance users to the next step, fostering decision-making skills.
 
 - **Addressing Industry Challenges**: The project addresses common problems in current training methods, such as memory-based testing and the exclusion of certain demographics, by providing a more comprehensive and inclusive training experience.
+
+---
 
 ## Development Stages
 
