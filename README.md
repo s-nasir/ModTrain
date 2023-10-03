@@ -18,45 +18,45 @@ Welcome to the Training Simulation Game project, a cutting-edge solution designe
 
 ### Stage 1: Pre-Production
 
-- [1] Mapping out procedures and protocols.
-- [1] Building module levels for procedures.
-- [1] Mapping out possible 'Day Simulation' activities in residential environments.
-- [1] Creating 5-level variation modules for 'Day Simulation.'
-- [1] Creating failure cases for all modules.
+- Mapping out procedures and protocols.
+- Building module levels for procedures.
+- Mapping out possible 'Day Simulation' activities in residential environments.
+- Creating 5-level variation modules for 'Day Simulation.'
+- Creating failure cases for all modules.
 
 ### Stage 2: Production
 
-- [ ] Building the user interface (UI).
-- [ ] Creating procedure module levels.
-- [ ] Developing Day Simulation module levels.
-- [ ] Building a performance tracker for recording trainee performance.
-- [ ] Establishing a performance report generator.
+- Building the user interface (UI).
+- Creating procedure module levels.
+- Developing Day Simulation module levels.
+- Building a performance tracker for recording trainee performance.
+- Establishing a performance report generator.
 
 ### Stage 3: Testing
 
-- [ ] Gathering UI feedback from different age groups.
-- [ ] Testing failure/exit cases of all modules.
-- [ ] Testing for loopholes in level modularity.
-- [ ] Testing the performance tracker.
-- [ ] Testing the accuracy of generated reports.
+- Gathering UI feedback from different age groups.
+- Testing failure/exit cases of all modules.
+- Testing for loopholes in level modularity.
+- Testing the performance tracker.
+- Testing the accuracy of generated reports.
 
 ### Stage 4: Hosting & Activation
 
-- [ ] Setting up the usage architecture.
-- [ ] Building an activation code generator.
-- [ ] Using a third-party service for facilitating installation.
-- [ ] Hosting the application.
+- Setting up the usage architecture.
+- Building an activation code generator.
+- Using a third-party service for facilitating installation.
+- Hosting the application.
 
 ### Stage 5: Testing Deployment
 
-- [ ] Testing activation codes.
-- [ ] Testing installation limitations.
+- Testing activation codes.
+- Testing installation limitations.
 
 ### Stage 6: Launch (TBD)
-- [ ] Specifics of this stage are yet to be determined.
+- Specifics of this stage are yet to be determined.
 
 ### Stage 7: Post Launch (TBD)
-- [ ] Specifics of this stage are yet to be determined.
+- Specifics of this stage are yet to be determined.
 
 ## Next Steps
 
